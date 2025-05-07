@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API for an e-commerce site with cart functionality.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.10"
+  }
+}
